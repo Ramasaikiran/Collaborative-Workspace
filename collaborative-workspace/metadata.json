@@ -1,0 +1,7 @@
+{
+  "name": "Collaborative Workspace for Projects CodeHustlers",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
